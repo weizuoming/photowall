@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">photo wall</string>
+
+    <string name="image_url">image_url</string><!--图片url-->
+    <string name="border_top">border_top</string><!--图片顶部位置-->
+    <string name="border_bottom">border_bottom</string><!--图片底部位置-->
+    <string name="btn_gridView">GridView为容器</string>
+    <string name="btn_recyclerView">RecyclerView为容器</string>
+    <string name="btn_own_scrollView">照片墙</string>
+    <string name="btn_choose_local">浏览</string>
+</resources>
